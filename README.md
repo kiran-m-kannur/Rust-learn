@@ -3,4 +3,4 @@ This is just meant for testing Rust, It contains nothing of value and it will ke
 I will be adding something ranging from small projects to large projects,
 
 That's it .
-
+(The tarball and password-gen do not work as of now )
