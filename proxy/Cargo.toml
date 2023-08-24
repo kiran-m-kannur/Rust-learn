@@ -1,0 +1,11 @@
+[package]
+name = "proxy"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hyper = "0.14.27"
+tokio = "1.29.1"
+tower = "0.4.13"

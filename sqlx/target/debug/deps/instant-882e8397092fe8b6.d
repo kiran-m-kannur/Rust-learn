@@ -1,0 +1,8 @@
+/home/kiran/learn/lang/rust/Rust-learn/sqlx/target/debug/deps/instant-882e8397092fe8b6.rmeta: /home/kiran/.cargo/registry/src/index.crates.io-6f17d22bba15001f/instant-0.1.12/src/lib.rs /home/kiran/.cargo/registry/src/index.crates.io-6f17d22bba15001f/instant-0.1.12/src/native.rs
+
+/home/kiran/learn/lang/rust/Rust-learn/sqlx/target/debug/deps/libinstant-882e8397092fe8b6.rlib: /home/kiran/.cargo/registry/src/index.crates.io-6f17d22bba15001f/instant-0.1.12/src/lib.rs /home/kiran/.cargo/registry/src/index.crates.io-6f17d22bba15001f/instant-0.1.12/src/native.rs
+
+/home/kiran/learn/lang/rust/Rust-learn/sqlx/target/debug/deps/instant-882e8397092fe8b6.d: /home/kiran/.cargo/registry/src/index.crates.io-6f17d22bba15001f/instant-0.1.12/src/lib.rs /home/kiran/.cargo/registry/src/index.crates.io-6f17d22bba15001f/instant-0.1.12/src/native.rs
+
+/home/kiran/.cargo/registry/src/index.crates.io-6f17d22bba15001f/instant-0.1.12/src/lib.rs:
+/home/kiran/.cargo/registry/src/index.crates.io-6f17d22bba15001f/instant-0.1.12/src/native.rs:
